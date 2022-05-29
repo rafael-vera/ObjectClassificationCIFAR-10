@@ -6,8 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
-# Numpy array
-*.npy
+# Datasets
+datasets/
+
+# Models
+models/
 
 # Distribution / packaging
 .Python
